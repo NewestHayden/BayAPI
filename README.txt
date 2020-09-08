@@ -1,17 +1,5 @@
-Welcome to BayAPI
-Freelance Medical Software Made By NewestHayden\Haydex_Dev
-(CURRENTLY NOT GOOD ENOUGH FOR MEDICAL GRADE JUST FOR PLAYING AROUND RIGHT NOW)
+#I dont update this lol
 
---NOTICE--
-I Don't like pirating, its not fun.
-So please, no pirate.
+#its a bad winforms program and it does NOT deserve to be in the artic code vault.
 
-
-
-
-
-Enjoy!  
-
-
-Signed,
-Haydex_Dev\NewestHayden
+#please dont download it I beg of you
